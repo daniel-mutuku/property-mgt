@@ -17,12 +17,12 @@ Basic platform to list and hire houses(property).
 
 
 ## Links
-/auth (login to admin dashboard)
-/index (landing page for customers)
+- /auth (login to admin dashboard)
+- /index (landing page for customers)
 
 ## Demo Credentials
-email: admin@gmail.com
-password: pass12345
+- email: admin@gmail.com
+- password: pass12345
 
 MIT
 
